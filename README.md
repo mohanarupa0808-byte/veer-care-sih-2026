@@ -1,5 +1,4 @@
 VEER CARE — SIH 2026
-
 Predictive Personnel Welfare System
 
 VEER CARE is a welfare-support system for uniformed personnel. It combines operational information with voluntary wellness inputs to identify meaningful changes in personnel well-being and help welfare officers provide timely support.
@@ -8,6 +7,7 @@ The system looks at changes in a person's workload, duty patterns, leave, deploy
 Instead of depending on one assessment or one score, VEER CARE builds a personal baseline and looks for meaningful changes from that baseline.
 The flow is:
 Personnel Data → Personal Baseline → Change Detection → Risk Insight → Human Review → Welfare Support
+
 -> Main Users
 Personnel
 • Complete voluntary wellness check-ins
@@ -82,12 +82,12 @@ VEER CARE is designed around welfare support rather than disciplinary use.
 The system uses role-based access and limits sensitive information according to the user's role. Personnel-level information is kept separate from the aggregate views provided to commanders and leadership.
 
 -> Project Repositories
-
 Frontend Repository
 https://github.com/topCodegeek/veercare-frontend-sih
 
 Backend Repository
 https://github.com/topCodegeek/veercare-backend-sih
+
 Smart India Hackathon 2026
 Problem Statement: 26186
 Theme: MedTech / BioTech / HealthTech
